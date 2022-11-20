@@ -1,0 +1,4 @@
+1. Install python by double clickinh python-3.10.0-amd64 file. Remember to mark Add to path at first step.
+2. Double click install_dependencies
+3. Put domains in website.csv file (open it using excel)
+4. Double click Extract_Contact_Details.
